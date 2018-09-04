@@ -124,3 +124,15 @@ Modeling the general circulation of the atmosphere in idealized setups allows us
 
 #### Skills Required
 Python programming, basic statistical analysis, linux. 
+
+### Applying artificial neural networks in understanding climate variability over the Ross Sea region in Antarctica
+
+#### Supervisor
+Xiaojun Yuan, Lamont Research Professor
+Indrani Das, Lamont Associate Research Professor
+
+#### Description
+Significant changes have occurred in Antarctica’s climate system: from the atmosphere, ocean and sea ice to glacier ice on the continent. Detecting the long-term changes and short-term climate variability in surface climate (including temperature, winds and humidity etc.) is critical for understanding and predicting the melting rate of ice sheets. This project aims to use climate model output such as near-surface temperature and winds, and evaluate their variability and long-term trends against with in-situ data. The work will use standard techniques of statistical comparison and explore innovative techniques of an artificial neural network (ANN) for detecting climate variability and predicting long-term climate trends in the Ross Sea Region. The project will assess the modeled surface climate at multiple times scales from intraseasonal to multi-decadal and more accurately detect climate changes in Antarctica. 
+
+#### Skills Required
+Python or Matlab programming, some knowledge of machine learning methods, basic statistical analysis, linux. 
